@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: black;
+  }
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.3rem 0.3rem;
+    background-color: black;
+    color: white;
+  }
+.navbar{
+    height: 3rem;
+    color: white;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+}
+.home{
+    height: 1.5rem;
+    margin-left:1.25rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.photos{
+    height:1.5rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about{
+    height: 1.5rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.achievement{
+    height:1.5rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.border{
+    border: 1rem solid transparent;
+  }
+.border:hover{
+    border: 0.125rem solid whitesmoke;
+}
+.ph1{
+width: 380px;
+height: 620px;
+padding-right: 0px;
+}
+.body{
+    display: flex;
+}
+.ab{padding-top: 200px;
+    align-items: center;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 900;
+    text-shadow: 3px 3px rgb(104, 101, 101);
+    color: rgb(225, 220, 220);
+    
+}
+.insta{
+    width: 30px;
+    padding-top: 200px;
+    padding-left: 10px;
+}
+.x{
+    padding-top: 20px;
+    height: 30px;
+    width: 60px;
+}
+.logo{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.name{
+    color: white;
+    height: 1.5rem;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 550px;
+}
+.contact{
+    padding-left: 30px;
+}
+.us{display:flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    font-size: medium;
+}
+.mail{display:flex;
+    justify-content: center;
+    
+    align-: center;
+    color: white;
+    font-size: xx-small;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.img{
+    color: white;
+    display: flex;
+}
+.w{padding-left: 50px;
+}
+.p{
+    padding-left: 50px;
+
+}
+.l{
+    color: white;
+    font-size: 1rem;
+}
+h1{
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 900;
+    text-shadow: 3px 3px rgb(104, 101, 101);
+    color: rgb(225, 220, 220);
+}
+.abo{
+    display: flex;
+}
+.footer{
+    width: 100%;
+}
